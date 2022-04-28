@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+           html {
+      background-color:#440011;
+        background-image:
+        url(https://kartinkin.net/uploads/posts/2021-01/1610806102_43-p-neitralnii-svetlii-fon-54.jpg);
+    }
+ p { 
+     color: black;
+       font-size: 60px;
+    font-family: "Century gothic";
+    }
+       h1 { 
+           text-align: center;
+     color: black;
+       font-size: 40px;
+    font-family:"Century gothic";
+    }
+       
+    </style>
+  </head>
+<body>
+<h1>Рисование на графическом планшете </h1>
+<p> Что требуется для рисования на графическом планшете </p>
+<ul type="square"><li>графический планшет со стилусом</li>
+<li>Приложения для рисования</li>
+</ul type="square">
+</body>
+</html>
